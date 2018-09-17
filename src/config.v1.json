@@ -1,0 +1,38 @@
+{
+    "algo": "ALGO",
+    "api": {
+        "port": 0,
+        "access-token": null,
+        "worker-id": null,
+        "ipv6": false,
+        "restricted": true
+    },
+    "av": 0,
+    "background": true,
+    "colors": true,
+    "cpu-affinity": null,
+    "cpu-priority": null,
+    "donate-level": 0,
+    "huge-pages": true,
+    "hw-aes": null,
+    "log-file": null,
+    "max-cpu-usage": 50,
+    "pools": [
+        {
+            "url": "POOL_URL_AND_PORT",
+            "user": "MY_WALLET",
+            "pass": "MY_WALLET_PASS",
+            "rig-id": null,
+            "nicehash": false,
+            "keepalive": true,
+            "variant": 1
+        }
+    ],
+    "print-time": 60,
+    "retries": 5,
+    "retry-pause": 5,
+    "safe": false,
+    "threads": null,
+    "user-agent": null,
+    "watch": false
+}

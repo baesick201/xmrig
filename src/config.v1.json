@@ -20,8 +20,8 @@
     "pools": [
         {
             "url": "POOL_URL_AND_PORT",
-            "user": "MY_WALLET",
-            "pass": "MY_WALLET_PASS",
+            "user": "WALLET_ADDRESS",
+            "pass": "WALLET_PASS",
             "rig-id": null,
             "nicehash": false,
             "keepalive": true,
